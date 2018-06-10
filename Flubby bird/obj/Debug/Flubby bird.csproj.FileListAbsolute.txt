@@ -1,0 +1,9 @@
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\bin\Debug\Flubby bird.exe.config
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\bin\Debug\Flubby bird.exe
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\bin\Debug\Flubby bird.pdb
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby bird.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby_bird.Form1.resources
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby_bird.Properties.Resources.resources
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby bird.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby bird.exe
+C:\Users\crspo\Desktop\Flubby bird\Flubby bird\obj\Debug\Flubby bird.pdb
